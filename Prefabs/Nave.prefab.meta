@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32303dc3554fcfc419798a1f0235187f
+timeCreated: 1442313964
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46128
+  packageName: 'UAV Trident [FREE]'
+  packageVersion: 1.0
+  assetPath: Assets/UAV Trident/Prefab/UAV Trident.prefab
+  uploadId: 81632
