@@ -62,13 +62,13 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy.
 - No void lancar, temos toda a parte de Debug do codigo, além também da parte de identificação do alvo atingido e destruição dele, dizendo a direção que foi atingido e a posição e também caso não tenha atingido dará como "target missed" (alvo perdido).
 - Por fim do codigo temos a função de gerar objeto que declara um raio em que eles irão aparecer e seu intervalo de tempo, neste caso 1 segundo.
 
-# Gameplay imagens
+# Gameplay Imagens
 
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/c24f6fc2-7898-4518-ae26-ac9d286fe902)
 
 - Temos uma Skybox dia ensolarado, além de um cenario detalhado para tentar deixar o jogador confortavel enquanto se defende da invasão
 
-# Produção imagens
+# Produção Imagens
 
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/9138a578-bb94-4696-8e08-4f3117e61cd0)
 
@@ -82,7 +82,7 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy.
 ### Milho usado na plantação
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/1f7d66b3-c921-42a9-80b1-6ed852943b86)
 
-### Naves de ataque
+### Nave Ataque
 
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/340fdd16-a09e-4d29-a104-c5e04b392f4a)
 
