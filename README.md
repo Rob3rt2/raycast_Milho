@@ -29,7 +29,7 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy
 
 # Codigos
 
-- Codigo usado na camera
+## Codigo usado na camera
   
  ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/c317ba13-98d9-4a89-b5e1-f82ec6e4cc40)
 
@@ -40,13 +40,13 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy
 
  - Nessa parte codigo é criado o sistema da rotação, a partir de caso o mouse seja rotacionado no eixo X ele irá mutiplicar o valor da rotação e a sua sensibilidade. A mesma logica é usada abaixo para o eixo Y e abaixo dele o que ele fará caso o mouse seja movido de uma forma angular, ou seja, para os dois eixos.
 
-- Codigo da adição dos milhos
+ ## Codigo da adição dos milhos
   
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/f80ac6cb-54a0-4daf-8741-c8ca3d2eb8ef)
 
 - É um codigo simples com a função For para multiplicar o Prefab de Corn_plant (milho) para a direção sugerida determinada vezes.
 
-- Codigo Raycast
+## Codigo Raycast
 
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/69fa8101-9436-4e51-baa6-ee41aaf9304c)
 
@@ -61,10 +61,27 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy
 
 # Gameplay imagens
 
+![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/c24f6fc2-7898-4518-ae26-ac9d286fe902)
 
+- Temos uma Skybox dia ensolarado, além de um cenario detalhado para tentar deixar o jogador confortavel enquanto se defende da invasão
 
+# Produção imagens
 
+![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/9138a578-bb94-4696-8e08-4f3117e61cd0)
 
+- Imagem de pré inicialização da cena, temos a posição da camera deifinida e os Prefabs posicionados em locais estrategicos para não manter o cenario pobre.
+
+![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/db57d554-954f-4c25-8518-7bc472f20d17)
+
+- Agora Imagem com a cena incializada, a plantação definida pelo scrpit para aparecer esta em uma posição diagonal para dar uma sensação de muitas ao jogador, mas são poucas, excelentes para otimização. As naves também começam a aparecer para o jogador as destruir.
+
+# Prefabs
+### Milho usado na plantação
+![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/1f7d66b3-c921-42a9-80b1-6ed852943b86)
+
+### Naves de ataque
+
+![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/340fdd16-a09e-4d29-a104-c5e04b392f4a)
 
 
 
