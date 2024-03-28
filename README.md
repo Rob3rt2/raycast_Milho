@@ -1,4 +1,4 @@
-# raycast_Milho
+# RayCast Milho
 Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy.
 ## Descrição
 - Esta cena foi elaborada uma cena imaginando-se uma invasão alienigina em uma plantação de milho no interior, temos os amigos do jogador os Korinos, que são milhos grandes e que as vezes dançam. o jogador usa as forças deles para fazer com que as naves sumam daquele lugar.
@@ -11,7 +11,7 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy.
 # Cena
 - Link do Drive com o Projeto: https://drive.google.com/file/d/1bWQwysYlqT5s8QSj0CAu97pmZ5zCdL0-/view?usp=sharing
 
-# Assets usados
+# Assets Usados
 - Asset da plantação de Milho
  ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/7997e011-5542-4f51-ae50-26b5148f01de)
 
