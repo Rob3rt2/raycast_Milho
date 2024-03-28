@@ -18,7 +18,7 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy.
 - Asset da torre d'agua no canto
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/6dd0f69c-4bc4-43d2-97c4-f423695d499a)
 
-- Asset do Milho que dança
+- Asset dos Korinos que dança
    ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/89123031-2b3d-41d4-afd2-19de56e7047b)
 
 - Asset para a casa
@@ -54,7 +54,7 @@ Cena no Unity feita para aplicar os conceitos de Raycast, Prefab e Destroy.
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/69fa8101-9436-4e51-baa6-ee41aaf9304c)
 
 - O codigo mais importante, no seu começo temos as delcarações dos aributos e metodos, como Ray, RaycatsHit, Vector3, Color, public Camera.
-- No start está chamando um metodo de gerar o alvo, neste caso as naves]
+- No start está chamando um metodo de gerar o alvo, neste caso as naves.
 
 ![image](https://github.com/Rob3rt2/raycast_Milho/assets/127865166/0dfa1be7-befb-4946-b924-5d23cb8aa64c)
 
